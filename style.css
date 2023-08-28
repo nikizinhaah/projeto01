@@ -1,0 +1,69 @@
+#retangulo-logo{
+    width: 100%;
+    height: 130px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+}
+
+#retangulo-footer{
+    width: 100%;
+    height: 83px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+}
+
+#logodiv{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    position: absolute;
+    width: 125px;
+    height: 130px;
+}
+
+#retangulo-menu{
+    width: 100%;
+    height: 20px;
+    border: 1px solid #ccc;
+    background-color: #d9d9d9;
+    display: flex;
+}
+
+#produtos{
+    margin-left: 40%;
+    color: black;
+}
+
+#home{
+    margin-left: 26%;
+    color: black;
+}
+
+#bodyhome{
+    display: flex;
+    align-items: center;
+}
+
+#fotosobrenos{
+    margin-left: 5%;
+    width: 25%;
+    border-radius: 25px;
+    margin-bottom: 5%;
+}
+
+#sobrenos{
+    text-align: right;
+    width: 80%;
+    font-size: 300%;
+    margin: 2%;
+}
+
+#sobrenostexto{
+    width: 33%;
+    font-size: 200%;
+    margin-left: 15.5%;
+    text-align: center;
+}

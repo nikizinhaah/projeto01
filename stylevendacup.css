@@ -1,0 +1,92 @@
+#retangulo-logo{
+    width: 100%;
+    height: 130px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+}
+
+a{
+    color: black;
+}
+
+#produtos{
+    margin-left: 40%;
+}
+
+#home{
+    margin-left: 26%;
+}
+
+#logodiv{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    position: absolute;
+    width: 125px;
+    height: 130px;
+}
+
+#retangulo-menu{
+    width: 100%;
+    height: 20px;
+    border: 1px solid #ccc;
+    background-color: #d9d9d9;
+    display: flex;
+}
+
+#quadrado-venda{
+    width: 20%;
+    height: 360px;
+    border-radius: 25px;
+    background-color: #AD393a;
+    margin-left: 12%;
+    margin-top: 4%;
+}
+
+#bolo_de_morango{
+    width: 90%;
+    height: 90%;
+    border-radius: 25px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+#titulo{
+    margin-left: 47%;
+    font-size: 400%;
+    margin-top: 1%;
+}
+
+#preço{
+    margin-left: 21.5%;
+    font-size:  350%;
+}
+
+#corpo{
+    display: flex;
+    align-items: center;
+}
+
+#retangulo-compra{
+    width: 20%;
+    height: 40px;
+    border-radius: 25px;
+    background-color: #AD393a;
+    margin-left: 51.8%;
+}
+
+#comprar{
+    font-size: 200%;
+    margin-left: 29%;
+}
+
+#retangulo-footer{
+    width: 100%;
+    height: 83px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+    margin-top: 6.2%;
+}

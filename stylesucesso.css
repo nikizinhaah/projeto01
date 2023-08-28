@@ -1,0 +1,53 @@
+#retangulo-logo{
+    width: 100%;
+    height: 130px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+}
+
+a{
+    color: black;
+}
+
+#produtos{
+    margin-left: 40%;
+}
+
+#home{
+    margin-left: 26%;
+}
+
+#logodiv{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    position: absolute;
+    width: 125px;
+    height: 130px;
+}
+
+#retangulo-menu{
+    width: 100%;
+    height: 20px;
+    border: 1px solid #ccc;
+    background-color: #d9d9d9;
+    display: flex;
+}
+
+.compra {
+    font-size: 500%;
+    text-align: center;
+    background-color: #AD393a;
+    margin-top: 12%;
+}
+
+#retangulo-footer{
+    width: 100%;
+    height: 83px;
+    border: 0px solid #ccc;
+    background-color: #AD393a;
+    margin-top: 15.1%;
+}
